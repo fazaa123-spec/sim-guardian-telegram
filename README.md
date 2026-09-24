@@ -1,4 +1,4 @@
-Enter# SIM Guardian - Telegram Edition 🛡️
+# SIM Guardian - Telegram Edition 🛡️
 
 تطبيق أندرويد مفتوح المصدر لحماية هاتفك عند تغيير الشريحة، يرسل تنبيه فوري على تليجرام بدل SMS (مقبول 100% في Google Play).
 
